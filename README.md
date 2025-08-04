@@ -1,5 +1,6 @@
 # odin-recipes
 First project
+
 This project is about creating a basic recipe website. It contains main/home page (index.html) and three recipe pages, all of which are connected and easy to navigate to thanks to links to each one from homepage and vice versa.
 Recipe pages have the same structure: title, heading (h1), link to a homepage, photo of the recipe, description (h2), ingredients (h2) with unordered list (ul), steps (h2) with ordered list (ol).
 
