@@ -1,2 +1,9 @@
 # odin-recipes
 First project
+This project is about creating a basic recipe website. It contains main/home page (index.html) and three recipe pages, all of which are connected and easy to navigate to thanks to links to each one from homepage and vice versa.
+Recipe pages have the same structure: title, heading (h1), link to a homepage, photo of the recipe, description (h2), ingredients (h2) with unordered list (ul), steps (h2) with ordered list (ol).
+
+Mindset was definitely a force to tackle the project, because, as I realized, you can have all the theoretical knowledge, but still feel stuck in ability to actually do it and share it with others without being afraid of judgement. I fell into this trap, specifically with commits: I expected myself to figure out them and be perfect from the start. I spent too much time hesitating as a result. 
+Eventually I learned to get unstuck and this was the most valuable lesson for me. We learn by doing, especially by making mistakes while. They allow your brain to register and analyze the process of learning better.
+Still, I wanted to complete one thing that I didn't yet know how and was quite far away from in terms of my skills, but because of my love for dark theme, I felt the need to implement the function of changing themes (from light to dark and vice versa) to all of my pages. Achieving it gave me more confidence and engagement in learning.
+I realized how valuable nonlinear learning process can be sometimes — when you follow the itch to do something exciting, even if it feels hard, distant, or impossible, you end up learning a lot from it. So it's worth it.
